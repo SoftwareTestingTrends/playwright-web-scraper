@@ -1,0 +1,122 @@
+[
+  {
+    "user": "microsoft",
+    "repo": "playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "detail": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API."
+  },
+  {
+    "user": "checkly",
+    "repo": "headless-recorder",
+    "url": "https://github.com/checkly/headless-recorder",
+    "detail": "Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script."
+  },
+  {
+    "user": "apify",
+    "repo": "crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "detail": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation."
+  },
+  {
+    "user": "microsoft",
+    "repo": "playwright-python",
+    "url": "https://github.com/microsoft/playwright-python",
+    "detail": "Python version of the Playwright testing and automation library."
+  },
+  {
+    "user": "artilleryio",
+    "repo": "artillery",
+    "url": "https://github.com/artilleryio/artillery",
+    "detail": "Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!"
+  },
+  {
+    "user": "browserless",
+    "repo": "browserless",
+    "url": "https://github.com/browserless/browserless",
+    "detail": "Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses."
+  },
+  {
+    "user": "codeceptjs",
+    "repo": "CodeceptJS",
+    "url": "https://github.com/codeceptjs/CodeceptJS",
+    "detail": "Supercharged End 2 End Testing Framework for NodeJS"
+  },
+  {
+    "user": "qawolf",
+    "repo": "qawolf",
+    "url": "https://github.com/qawolf/qawolf",
+    "detail": "🐺 Create browser tests 10x faster"
+  },
+  {
+    "user": "microsoft",
+    "repo": "dotnet-podcasts",
+    "url": "https://github.com/microsoft/dotnet-podcasts",
+    "detail": ".NET reference application shown at .NET Conf featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Orleans, Playwright, and more!"
+  },
+  {
+    "user": "microsoft",
+    "repo": "playwright-dotnet",
+    "url": "https://github.com/microsoft/playwright-dotnet",
+    "detail": ".NET version of the Playwright testing and automation library."
+  },
+  {
+    "user": "vogler",
+    "repo": "free-games-claimer",
+    "url": "https://github.com/vogler/free-games-claimer",
+    "detail": "Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG."
+  },
+  {
+    "user": "playwright-community",
+    "repo": "playwright-go",
+    "url": "https://github.com/playwright-community/playwright-go",
+    "detail": "Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API."
+  },
+  {
+    "user": "TheWebScrapingClub",
+    "repo": "webscraping-from-0-to-hero",
+    "url": "https://github.com/TheWebScrapingClub/webscraping-from-0-to-hero",
+    "detail": "The web scraping open project repository aims to share knowledge and experiences about web scraping with Python"
+  },
+  {
+    "user": "QIN2DIM",
+    "repo": "hcaptcha-challenger",
+    "url": "https://github.com/QIN2DIM/hcaptcha-challenger",
+    "detail": "🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution."
+  },
+  {
+    "user": "simonw",
+    "repo": "shot-scraper",
+    "url": "https://github.com/simonw/shot-scraper",
+    "detail": "A command-line utility for taking automated screenshots of websites"
+  },
+  {
+    "user": "ocsjs",
+    "repo": "ocsjs",
+    "url": "https://github.com/ocsjs/ocsjs",
+    "detail": "OCS 网课助手，网课刷课脚本，帮助大学生解决网课难题，支持【超星学习通】【知道智慧树】【职教云】【智慧职教】【中国大学MOOC】等网课 ， 可以在 脚本猫 以及 油猴 等开源脚本管理器下运行。"
+  },
+  {
+    "user": "microsoft",
+    "repo": "playwright-cli",
+    "url": "https://github.com/microsoft/playwright-cli",
+    "detail": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots."
+  },
+  {
+    "user": "microsoft",
+    "repo": "playwright-java",
+    "url": "https://github.com/microsoft/playwright-java",
+    "detail": "Java version of the Playwright testing and automation library"
+  },
+  {
+    "user": "fingerprintjs",
+    "repo": "BotD",
+    "url": "https://github.com/fingerprintjs/BotD",
+    "detail": "Bot detection library that runs in the browser. Detects automation tools and frameworks. No server required, runs 100% on the client. MIT license, no usage restrictions."
+  },
+  {
+    "user": "microsoft",
+    "repo": "playwright-test",
+    "url": "https://github.com/microsoft/playwright-test",
+    "detail": "Build a cross-browser end-to-end test suite with Playwright."
+  }
+]
